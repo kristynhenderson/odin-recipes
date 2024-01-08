@@ -1,0 +1,44 @@
+* {
+    font-family: Georgia, Verdana, "Times New Roman", sans-serif;
+}
+
+.home-header {
+    color: #634114;
+    background-color: #ceb595;
+}
+
+.fluff-header {
+    color: #236615;
+    background-color: #a4d39b;
+}
+
+.pudding-header {
+    color: #682f00;
+    background-color: #c5ad9a;
+}
+
+.punch-header {
+    color: #146345;
+    background-color: #8acfad;
+}
+
+.subheader {
+    font-weight: 100;
+    color: #333333;
+}
+
+.home-header.subheader {
+    background-color: #d3d2d2;
+}
+
+.fluff-header.subheader {
+    color: #116400;
+}
+
+.pudding-header.subheader {
+    color: #682f00;
+}
+
+.punch-header.subheader {
+    color: #006342;
+}
