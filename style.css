@@ -23,8 +23,8 @@
 }
 
 .subheader {
-    font-weight: 100;
     color: #333333;
+    border-style: solid;
 }
 
 .home-header.subheader {
@@ -41,4 +41,26 @@
 
 .punch-header.subheader {
     color: #006342;
+}
+
+h1 {
+    padding: 12px;
+    border-style: solid;
+}
+
+h2 {
+    padding: 6px;
+ 
+}
+
+h3 {
+    padding: 3px;
+}
+
+div {
+    color: #797979;
+    background-color: #ebebeb;
+    border-style: solid;
+    padding: 18px;
+    font-size: 18px;
 }
