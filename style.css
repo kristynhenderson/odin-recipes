@@ -7,9 +7,85 @@
     background-color: #ceb595;
 }
 
+.main {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.img {
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.subheader {
+    color: #333333;
+    border-style: solid;
+    text-align: center;
+}
+
+.home-header.subheader {
+    background-color: #d3d2d2;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.pages {
+    color: #7e7e7e;
+    background-color: #ebebeb;
+    border-style: solid;
+    border-top: none;
+    padding: 30px;
+    padding-bottom: 500px;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+div li {
+    border-style: solid;
+    margin: 30px;
+    font-size: 20px;
+    padding: 20px;
+}
+
+div .fluff {
+    color: #236615;
+    border-style: solid;
+    border-color: #236615;
+    background-color: #a4d39b;
+}
+
+div .pudding {
+    color: #682f00;
+    border-style: solid;
+    border-color: #682f00;
+    background-color: #c5ad9a;
+}
+
+div .punch {
+    color: #146345;
+    border-style: solid;
+    border-color: #146345;
+    background-color: #8acfad;
+}
+
 .fluff-header {
     color: #236615;
     background-color: #a4d39b;
+}
+
+.fluff-header.subheader {
+    color: #116400;
+}
+
+.page-1 {
+    color: #236615;
+    border-style: solid;
+    border-color: #236615;
+    background-color: #a4d39b;
+    margin-right: 5px;
 }
 
 .pudding-header {
@@ -17,50 +93,66 @@
     background-color: #c5ad9a;
 }
 
+.pudding-header.subheader {
+    color: #682f00;
+}
+
+.page-2 {
+    color: #682f00;
+    border-style: solid;
+    border-color: #682f00;
+    background-color: #c5ad9a;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
 .punch-header {
     color: #146345;
     background-color: #8acfad;
-}
-
-.subheader {
-    color: #333333;
-    border-style: solid;
-}
-
-.home-header.subheader {
-    background-color: #d3d2d2;
-}
-
-.fluff-header.subheader {
-    color: #116400;
-}
-
-.pudding-header.subheader {
-    color: #682f00;
 }
 
 .punch-header.subheader {
     color: #006342;
 }
 
+.page-3 {
+    color: #146345;
+    border-style: solid;
+    border-color: #146345;
+    background-color: #8acfad;
+    margin-right: 5px;
+}
+
+.table-of-contents {
+    color: #333333;
+    border-style: solid;
+    border-color: #333333;
+    background-color: #d3d2d2;
+    margin-right: 5px;
+}
+
+.navigation {
+    margin-top: 30px;
+}
+
 h1 {
     padding: 12px;
     border-style: solid;
+    text-align: center;
 }
 
 h2 {
     padding: 6px;
- 
+    margin-top: 40px;
 }
 
 h3 {
     padding: 3px;
+    margin-top: 40px;
 }
 
-div {
-    color: #797979;
-    background-color: #ebebeb;
-    border-style: solid;
-    padding: 18px;
+p,
+li,
+.navigation {
     font-size: 18px;
 }
