@@ -77,7 +77,15 @@ div .punch {
 }
 
 .fluff-header.subheader {
-    color: #116400;
+    color: #236615;
+}
+
+.fluff-box {
+    background-color: #c4dfc0;
+    border-top: none;
+    margin-top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .page-1 {
@@ -97,6 +105,14 @@ div .punch {
     color: #682f00;
 }
 
+.pudding-box {
+    background-color: #ddcebc;
+    border-top: none;
+    margin-top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .page-2 {
     color: #682f00;
     border-style: solid;
@@ -112,7 +128,15 @@ div .punch {
 }
 
 .punch-header.subheader {
-    color: #006342;
+    color: #146345;
+}
+
+.punch-box {
+    background-color: #bdeed5;
+    border-top: none;
+    margin-top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .page-3 {
@@ -143,12 +167,14 @@ h1 {
 
 h2 {
     padding: 6px;
-    margin-top: 40px;
+    margin-top: 20px;
+    margin-bottom: 0;
 }
 
 h3 {
     padding: 3px;
-    margin-top: 40px;
+    margin-top: 20px;
+    margin-bottom: 0;
 }
 
 p,
